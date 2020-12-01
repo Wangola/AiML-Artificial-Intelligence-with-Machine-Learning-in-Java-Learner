@@ -2,6 +2,8 @@
 ### As the personal project i will be doing the Artificial Intelligence with Machine Learning Oracle Academy course 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Completion Certificate](Completion%20Certificate/Artificial%20Intelligence%20with%20Machine%20Learning%20in%20Java%20Certificate.pdf)
+
 #### *Personal Notes*
 #### Section 0 - Course Resources
 
