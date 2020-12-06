@@ -32,7 +32,7 @@ Introduction to AI: Defined Artificial Intelligence (AI), Machine Learning (ML) 
 
 Data and Information: Defined data and information (data is raw facts as information is the act of processing data and presenting the result as information - Collect and present). Differentiate between data and information.
 
-Categorizing Data: Defined Supervised (when their is information - 2 categories {independent - predictors, dependent - outcome}) and Unsupervised Learning (when data is unknown). Defined Classification (independent data as discrete values) and Regression (range of real numbers). Defined Struc/Unstruc data.
+Categorizing Data: Defined Supervised (when there is information - 2 categories {independent - predictors, dependent - outcome}) and Unsupervised Learning (when data is unknown). Defined Classification (independent data as discrete values) and Regression (range of real numbers). Defined Structured/Unstructured data.
 
 
 #### Section 2 - Machine Learning
@@ -57,12 +57,12 @@ Machine Learning Workflow: Insight on how to use models within machine learning 
 
 Attempt #1 - Score: 13/15 (missed Question were about examples of data and examples of AI)
 
-Attempt #2 - Score: 13/15 ( Again missed a Question about data and classifying a step in the CRISP Model)
+Attempt #2 - Score: 13/15 (Again missed a Question about data and classifying a step in the CRISP Model)
 
 Attempt #3 - Score: 15/15 (Third times a charm)
 
 
-#### Section 3 -  Trees and Recursion
+#### Section 3 - Trees and Recursion
 
 * Binary Trees
 * Recursion
@@ -71,11 +71,11 @@ Attempt #3 - Score: 15/15 (Third times a charm)
 
 ***Completed notes:***
 
-Binary Trees: Talked about binary trees and and their use of nodes with the main nodes being root, siblings, and leaf. It also talked about Structure saying that left and right node are null and can be manipulated in a program with the methods given.
+Binary Trees: Talked about binary trees and their use of nodes with the main nodes being root, siblings, and leaf. It also talked about Structure saying that left and right node are null and can be manipulated in a program with the methods given.
 
-Recursion: Recursion is when a method makes a call to itself the recursive methods continue until it reaches the base case and the recursive case is the act of a loop or function. Recursion break problems down so that it becomes smaller and smaller. Recursion can have a memory issue if it has an excessive amount of calls.
+Recursion: Recursion is when a method makes a call to itself the recursive methods continue until it reaches the base case, and the recursive case is the act of a loop or function. Recursion break problems down so that it becomes smaller and smaller. Recursion can have a memory issue if it has an excessive number of calls.
 
-Tree Traversal: Defined tree traversal the search of an item and its different traversals which are Pre-order, Post-order, and In Order. All Discrete Math stuff.
+Tree Traversal: Defined tree traversal the search of an item and its different traversals which are Pre-order, Post-order, and In Order. All Discrete Math stuffs.
 
 Yes/No Game: Described the use of Decision Trees and how to apply it to the Yes/No game. Creating manual decision trees is difficult and time consuming, testing is needed.
 
@@ -91,7 +91,7 @@ Yes/No Game: Described the use of Decision Trees and how to apply it to the Yes/
 
 Decision Tree Algorithms: Described some of the most popular decision trees in machine learning - (Classification and Regression Tree (CART), Iterative Dichotomiser 3 (ID3), C4.5 (successor of ID3), Chi-squared Automatic Interaction Detection (CHAID), Decision Stump, Conditional Decision Trees). Went into some depth about ID3 algorithm with an example.
 
-Information Entropy: Defined Information Entropy which refers to uncertainty of data and was denoted into two types high and low entropy (high level of uncertainty which means something is learned, and low level entropy occurs when given data is known so no learning occurs). Defined Variance as a measure of how far data is spread out; when there is a high value then not much is known about the data, but if its a narrow variance we can be confident about data values. Information entropy is calculated and measured by the negative summation using logbase of p(x) (formula in notes) to calculate the probability which is understood to be Bits of information to choose the attribute that will give the most information, the higher the uncertainty the better.
+Information Entropy: Defined Information Entropy which refers to uncertainty of data and was denoted into two types high and low entropy (high level of uncertainty which means something is learned, and low-level entropy occurs when given data is known so no learning occurs). Defined Variance as a measure of how far data is spread out; when there is a high value then not much is known about the data, but if it is a narrow variance we can be confident about data values. Information entropy is calculated and measured by the negative summation using log base of p(x) (formula in notes) to calculate the probability which is understood to be Bits of information to choose the attribute that will give the most information, the higher the uncertainty the better.
 
 ID3 Worked Example: Multiple examples of calculating entropy most notable (Outlook, Temperature, Humidity, and Wind) (work in notes), calculated gain- information Gain measures how much entropy is reduced when partitioning an attribute, the higher the number the better (Gain formula in notes). Covered how ID3 trees look like and how to work through them.
 Create an ID3 Tree: Revisited Tree formats and provided an example of a non-binary Tree and asked to do a Final task but was not sure how to approach.
@@ -100,9 +100,9 @@ Create an ID3 Tree: Revisited Tree formats and provided an example of a non-bina
 
 ***Completed notes:***
 
-Attempt #1 - Score 13/15 (missed question 4: A binary tree can only store primitive values; Correct Ans: False, missed question 15: In a binary tree, it doesn't matter which questions you start with; Correct Ans: False)
+Attempt #1 - Score 13/15 (missed question 4: A binary tree can only store primitive values; Correct Ans: False, missed question 15: In a binary tree, it does not matter which questions you start with; Correct Ans: False)
 
-Attempt #2 - Score 14/15 (missed question 1: Non binary tree classes still have a left and right node property; Correct Ans: False)
+Attempt #2 - Score 14/15 (missed question 1: Nonbinary tree classes still have a left and right node property; Correct Ans: False)
 
 Attempt #3 - Score 15/15 (Again Third times a charm)
 
@@ -111,7 +111,7 @@ Attempt #3 - Score 15/15 (Again Third times a charm)
 
 ***Completed notes:***
 
-Final Score - 48/50 (Missed Question #13: The date and time of a credit card transaction is an example of information?; Correct Ans: False (I thought it would be true since information is data in context but dates and times are considered raw data), Missed Question #49: If you know the outcome of an event 100% of the itme how much is contained within it?; Correct Ans: 1 (I thought it would be 0 since you know the outcome, it could be thought about like the example provided in information entropy about the bag of 10 green balls having a probability of 1 but when using it in the entropy equation it would result in 0 still a little unsure on how its 1 unless its was a 5/5 split).
+Final Score - 48/50 (Missed Question #13: The date and time of a credit card transaction is an example of information?; Correct Ans: False (I thought it would be true since information is data in context but dates and times are considered raw data), Missed Question #49: If you know the outcome of an event 100% of the time how much is contained within it?; Correct Ans: 1 (I thought it would be 0 since you know the outcome, it could be thought about like the example provided in information entropy about the bag of 10 green balls having a probability of 1 but when using it in the entropy equation it would result in 0 still a little unsure on how its 1 unless it was a 5/5 split).
 
 
 ***FINAL EXAM SUMMARY:***
