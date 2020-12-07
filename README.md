@@ -235,5 +235,132 @@ If you know the outcome of an ...	Yes	     1                	0
 Information Entropy quantifies...	Yes	     1	                1
 
 
+#### AiML Artifitial Intelligence with Machine Learning in Java Cumulative Final Exam
+
+
+***Completed notes:***
+
+Final Score - 49/50 (Missed Question #12: You train your algorithm with test data then test it with training data; Correct Ans: False (I thought it would be true since machine learning systems work best with more information but I assume it cannot be training data as it final test).
+
+***FINAL EXAM SUMMARY:***
+
+Test: AiML Artificial Intelligence with Machine Learning in Java Cumulative Final Exam
+
+Click a question to return to it. You will see the response that was entered and whether or not the response was correct. If the response was incorrect the correct answer will be displayed.
+
+Answered
+
+Unanswered
+
+Status	Question	Mandatory?	Points Available	Points Awarded
+
+Section 1		20	19
+
+Viewing a summary of all your ...	Yes	1	1
+
+Recording the tempearture ever...	Yes	1	1
+
+Recoding the number of visitor...	Yes	1	1
+
+The date and time of a credit ...	Yes	1	1
+
+Information is data in context	Yes	1	1
+
+Regression of data is when	Yes	1	1
+
+You watch a baseball game with...	Yes	1	1
+
+Rainfall recorded as 2,3,0,3,4...	Yes	1	1
+
+Data shown as a regression can...	Yes	1	1
+
+Classification of data is when	Yes	1	1
+
+Having no knowledge of a syste...	Yes	1	1
+
+You train your algorithm with ...	Yes	1	0
+
+Data that can be shown in tabl...	Yes	1	1
+
+Independent data relys on depe...	Yes	1	1
+
+The Turing test is	Yes	1	1
+
+Data exhaust allows systems to...	Yes	1	1
+
+Which of the following uses ma...	Yes	1	1
+
+Which of the following are exa...	Yes	1	1
+
+What is data exhaust?	Yes	1	1
+
+Which of the following is the ...	Yes	1	1
+
+Section 2		8	8
+
+The reason for the increase us...	Yes	1	1
+
+Cloud computing is one of the ...	Yes	1	1
+
+In the CRISP model, how would ...	Yes	1	1
+
+Which one of the following is ...	Yes	1	1
+
+Data Understanding is the firs...	Yes	1	1
+
+Business Understanding is when...	Yes	1	1
+
+The single most important thin...	Yes	1	1
+
+In the CRIP model we cannot mo...	Yes	1	1
+
+Section 3		14	14
+
+In the following tree what wou...	Yes	1	1
+
+The code below is an example o...	Yes	1	1
+
+In the following tree what wou...	Yes	1	1
+
+Tree traversal is:	Yes	1	1
+
+A method making a call to itse...	Yes	1	1
+
+Recurive methods can always be...	Yes	1	1
+
+If you create no base case in ...	Yes	1	1
+
+In recursion, a base case must...	Yes	1	1
+
+In a decision tree, it doesn't...	Yes	1	1
+
+If a node has both its sibling...	Yes	1	1
+
+In a Node class the name of th...	Yes	1	1
+
+In a binary tree what is the m...	Yes	1	1
+
+The first node on a tree is kn...	Yes	1	1
+
+Must every node in a tree have...	Yes	1	1
+
+Section 4		8	8
+
+The difference between a tree ...	Yes	1	1
+
+Decision trees can only be rep...	Yes	1	1
+
+C4.5 is the successor to ID3.	Yes	1	1
+
+ID3 is short for:	Yes	1	1
+
+Decision trees work better if ...	Yes	1	1
+
+Variance is:	Yes	1	1
+
+Which of the following has the...	Yes	1	1
+
+Information Entropy quantifies...	Yes	1	1
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
